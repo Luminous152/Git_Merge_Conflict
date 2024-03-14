@@ -1,4 +1,9 @@
 .dev-2{
     color: aqua;
     background-color: black;
+};
+.dev-1{
+    color: beige;
+    background-color: black;
+    font-size: larger;
 }
